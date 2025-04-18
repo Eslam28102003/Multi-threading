@@ -14,9 +14,6 @@ This repository contains a Java project developed as a homework assignment demon
 - [Prime Number Finding](#prime-number-finding)
   - [Prime Number Finding Overview](#prime-number-finding-overview)
   - [Classes Used](#classes-used-in-prime-number-finding)
-- [Installation and Setup](#installation-and-setup)
-
----
 
 
 
