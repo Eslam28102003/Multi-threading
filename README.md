@@ -98,4 +98,7 @@ This module implements strategies to find prime numbers using multithreading. Th
 - **PrimeFindingWorker**: Represents a worker thread responsible for finding primes within a specific range.
 
 
+![ChatGPT Image Apr 18, 2025, 04_27_27 PM](https://github.com/user-attachments/assets/1e4722de-17f0-4999-b8fc-7d5cc528a9f2)
+
+
 
