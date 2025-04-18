@@ -5,16 +5,6 @@ This repository contains a Java project developed as a homework assignment demon
 
 ----
 
-## Table of Contents
-
-- [Project Structure](#project-structure)
-- [Image Processing  Optimaizing Latency](#image-processing-optimaizing-latency)
-  - [Image Recoloring Overview](#image-recoloring-overview)
-  - [Classes Used](#classes-used-in-image-processing)
-- [Prime Number Finding](#prime-number-finding)
-  - [Prime Number Finding Overview](#prime-number-finding-overview)
-  - [Classes Used](#classes-used-in-prime-number-finding)
-
 
 
 
