@@ -18,6 +18,11 @@ This repository contains a Java project developed as a homework assignment demon
 
 ---
 
+
+
+
+
+
 ## Project Structure
 
 ```
@@ -73,6 +78,8 @@ This module is designed to optimize the latency the old provided code by using m
 - **ColorHelper**: A utility class responsible for changing the color of individual pixels.
 
 ---
+![ChatGPT Image Apr 18, 2025, 01_05_15 AM](https://github.com/user-attachments/assets/94fba9bd-6620-4e84-ac1e-983b1b5601be)
+
 
 ## Prime Number Finding
 
@@ -90,31 +97,5 @@ This module implements strategies to find prime numbers using multithreading. Th
 
 - **PrimeFindingWorker**: Represents a worker thread responsible for finding primes within a specific range.
 
----
 
-## Installation and Setup
-
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   ```
-
-2. Navigate to the project directory:
-   ```bash
-   cd Multithreading-Assignment
-   ```
-
-3. Ensure that Java and a compatible IDE (such as IntelliJ IDEA) are installed.
-
-4. Open the project in IntelliJ IDEA and resolve any dependencies.
-
----
-
-## Contribution
-
-Feel free to fork this project, make improvements, and submit pull requests. All contributions are welcome.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
